@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hi,Noto Serif Devanagari SemiBold,76,&H00F2F6FF,&H000000FF,&H00140A00,&H96000000,0,0,0,0,100,100,0,0,1,3,3,2,80,80,135,1
+Style: En,DejaVu Sans,36,&H00A8D8FF,&H000000FF,&H00140A00,&H96000000,0,1,0,0,100,100,1,0,1,2,2,2,80,80,78,1
+Style: Title,Noto Serif Devanagari SemiBold,150,&H00F2F6FF,&H000000FF,&H00140A00,&H96000000,0,0,0,0,100,100,0,0,1,4,5,5,80,80,0,1
+Style: Sub,DejaVu Sans,44,&H00A8D8FF,&H000000FF,&H00140A00,&H96000000,0,0,0,0,100,100,6,0,1,2,3,5,80,80,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.50,0:00:14.50,Title,,0,0,0,,{\fad(1500,1500)\pos(960,470)}अकेला कैलाश
+Dialogue: 0,0:00:03.50,0:00:14.50,Sub,,0,0,0,,{\fad(1500,1500)\pos(960,610)}AKELA KAILASH  •  SHIV BHAJAN
+Dialogue: 0,0:00:17.00,0:00:26.30,Hi,,0,0,0,,{\fad(400,400)}हम्म… हर हर… महादेव…
+Dialogue: 0,0:00:17.00,0:00:26.30,En,,0,0,0,,{\fad(400,400)}Hmm… Har Har… Mahadev…
+Dialogue: 0,0:00:26.40,0:00:33.60,Hi,,0,0,0,,{\fad(400,400)}बर्फ़ों पे बैठा है जोगी, आँखों में जलती आग
+Dialogue: 0,0:00:26.40,0:00:33.60,En,,0,0,0,,{\fad(400,400)}Barfon pe baitha hai jogi, aankhon mein jalti aag
+Dialogue: 0,0:00:33.60,0:00:40.40,Hi,,0,0,0,,{\fad(400,400)}डमरू भी चुप है अब तो, सोया है सारा राग
+Dialogue: 0,0:00:33.60,0:00:40.40,En,,0,0,0,,{\fad(400,400)}Damru bhi chup hai ab toh, soya hai saara raag
+Dialogue: 0,0:00:40.40,0:00:47.60,Hi,,0,0,0,,{\fad(400,400)}भस्म लगी है तन पे, पर मन पे लगी है राख
+Dialogue: 0,0:00:40.40,0:00:47.60,En,,0,0,0,,{\fad(400,400)}Bhasm lagi hai tan pe, par man pe lagi hai raakh
+Dialogue: 0,0:00:47.60,0:00:54.00,Hi,,0,0,0,,{\fad(400,400)}सती बिन सूनी-सूनी, कैलाश की हर शाख
+Dialogue: 0,0:00:47.60,0:00:54.00,En,,0,0,0,,{\fad(400,400)}Sati bin sooni-sooni, Kailash ki har shaakh
+Dialogue: 0,0:00:54.00,0:01:01.40,Hi,,0,0,0,,{\fad(400,400)}गंगा भी रोती जटा में, चंदा भी है उदास
+Dialogue: 0,0:00:54.00,0:01:01.40,En,,0,0,0,,{\fad(400,400)}Ganga bhi roti jata mein, chanda bhi hai udaas
+Dialogue: 0,0:01:01.40,0:01:08.20,Hi,,0,0,0,,{\fad(400,400)}तीनों लोक का स्वामी, आज खड़ा है निराश
+Dialogue: 0,0:01:01.40,0:01:08.20,En,,0,0,0,,{\fad(400,400)}Teenon lok ka swami, aaj khada hai niraash
+Dialogue: 0,0:01:08.30,0:01:14.80,Hi,,0,0,0,,{\fad(400,400)}सती… सती… मेरी सती
+Dialogue: 0,0:01:08.30,0:01:14.80,En,,0,0,0,,{\fad(400,400)}Sati… Sati… meri Sati
+Dialogue: 0,0:01:14.90,0:01:22.00,Hi,,0,0,0,,{\fad(400,400)}तुझ बिन अधूरा है ये शिव, तू ही मेरी शक्ति
+Dialogue: 0,0:01:14.90,0:01:22.00,En,,0,0,0,,{\fad(400,400)}Tujh bin adhoora hai ye Shiv, tu hi meri Shakti
+Dialogue: 0,0:01:22.00,0:01:28.40,Hi,,0,0,0,,{\fad(400,400)}भोले का दिल भी टूटे, रोए ये कैलाश
+Dialogue: 0,0:01:22.00,0:01:28.40,En,,0,0,0,,{\fad(400,400)}Bhole ka dil bhi toote, roye ye Kailash
+Dialogue: 0,0:01:28.50,0:01:36.00,Hi,,0,0,0,,{\fad(400,400)}महादेव अकेला है, बस यादें हैं पास
+Dialogue: 0,0:01:28.50,0:01:36.00,En,,0,0,0,,{\fad(400,400)}Mahadev akela hai, bas yaadein hain paas
+Dialogue: 0,0:01:50.30,0:01:56.40,Hi,,0,0,0,,{\fad(400,400)}यज्ञ की आग में जलकर, तूने निभाई रीत
+Dialogue: 0,0:01:50.30,0:01:56.40,En,,0,0,0,,{\fad(400,400)}Yagya ki aag mein jalkar, tune nibhaai reet
+Dialogue: 0,0:01:56.40,0:02:03.00,Hi,,0,0,0,,{\fad(400,400)}अपमान सहा ना मेरा, ऐसी थी तेरी प्रीत
+Dialogue: 0,0:01:56.40,0:02:03.00,En,,0,0,0,,{\fad(400,400)}Apmaan saha na mera, aisi thi teri preet
+Dialogue: 0,0:02:03.00,0:02:10.50,Hi,,0,0,0,,{\fad(400,400)}कंधे पे लेके तुझको, मैं घूमा सारा जहान
+Dialogue: 0,0:02:03.00,0:02:10.50,En,,0,0,0,,{\fad(400,400)}Kandhe pe leke tujhko, main ghooma saara jahaan
+Dialogue: 0,0:02:10.50,0:02:16.80,Hi,,0,0,0,,{\fad(400,400)}हर क़दम पे तांडव था, हर साँस में तूफ़ान
+Dialogue: 0,0:02:10.50,0:02:16.80,En,,0,0,0,,{\fad(400,400)}Har qadam pe taandav tha, har saans mein toofaan
+Dialogue: 0,0:02:16.90,0:02:23.60,Hi,,0,0,0,,{\fad(400,400)}सती… सती… मेरी सती
+Dialogue: 0,0:02:16.90,0:02:23.60,En,,0,0,0,,{\fad(400,400)}Sati… Sati… meri Sati
+Dialogue: 0,0:02:23.70,0:02:30.40,Hi,,0,0,0,,{\fad(400,400)}तुझ बिन अधूरा है ये शिव, तू ही मेरी शक्ति
+Dialogue: 0,0:02:23.70,0:02:30.40,En,,0,0,0,,{\fad(400,400)}Tujh bin adhoora hai ye Shiv, tu hi meri Shakti
+Dialogue: 0,0:02:30.50,0:02:37.20,Hi,,0,0,0,,{\fad(400,400)}भोले का दिल भी टूटे, रोए ये कैलाश
+Dialogue: 0,0:02:30.50,0:02:37.20,En,,0,0,0,,{\fad(400,400)}Bhole ka dil bhi toote, roye ye Kailash
+Dialogue: 0,0:02:37.30,0:02:46.00,Hi,,0,0,0,,{\fad(400,400)}महादेव अकेला है, बस यादें हैं पास
+Dialogue: 0,0:02:37.30,0:02:46.00,En,,0,0,0,,{\fad(400,400)}Mahadev akela hai, bas yaadein hain paas
+Dialogue: 0,0:02:57.60,0:03:05.20,Hi,,0,0,0,,{\fad(400,400)}ना त्रिशूल उठता है, ना नैना खुलते हैं
+Dialogue: 0,0:02:57.60,0:03:05.20,En,,0,0,0,,{\fad(400,400)}Na trishool uthta hai, na naina khulte hain
+Dialogue: 0,0:03:05.30,0:03:11.90,Hi,,0,0,0,,{\fad(400,400)}तेरी याद के दीपक, बस भीतर जलते हैं
+Dialogue: 0,0:03:05.30,0:03:11.90,En,,0,0,0,,{\fad(400,400)}Teri yaad ke deepak, bas bheetar jalte hain
+Dialogue: 0,0:03:12.00,0:03:18.60,Hi,,0,0,0,,{\fad(400,400)}फिर भी राह तकूँगा, जनम-जनम मैं जोगी
+Dialogue: 0,0:03:12.00,0:03:18.60,En,,0,0,0,,{\fad(400,400)}Phir bhi raah takoonga, janam-janam main jogi
+Dialogue: 0,0:03:18.70,0:03:25.40,Hi,,0,0,0,,{\fad(400,400)}लौटेगी तू पार्वती बन, फिर से मेरी होगी
+Dialogue: 0,0:03:18.70,0:03:25.40,En,,0,0,0,,{\fad(400,400)}Lautegi tu Parvati ban, phir se meri hogi
+Dialogue: 0,0:03:25.50,0:03:32.30,Hi,,0,0,0,,{\fad(400,400)}सती… सती… मेरी सती
+Dialogue: 0,0:03:25.50,0:03:32.30,En,,0,0,0,,{\fad(400,400)}Sati… Sati… meri Sati
+Dialogue: 0,0:03:32.40,0:03:38.70,Hi,,0,0,0,,{\fad(400,400)}तुझ बिन अधूरा है ये शिव, तू ही मेरी शक्ति
+Dialogue: 0,0:03:32.40,0:03:38.70,En,,0,0,0,,{\fad(400,400)}Tujh bin adhoora hai ye Shiv, tu hi meri Shakti
+Dialogue: 0,0:03:38.80,0:03:45.60,Hi,,0,0,0,,{\fad(400,400)}भोले का दिल भी टूटे, रोए ये कैलाश
+Dialogue: 0,0:03:38.80,0:03:45.60,En,,0,0,0,,{\fad(400,400)}Bhole ka dil bhi toote, roye ye Kailash
+Dialogue: 0,0:03:45.70,0:03:52.70,Hi,,0,0,0,,{\fad(400,400)}महादेव अकेला है, पर बाक़ी है आस
+Dialogue: 0,0:03:45.70,0:03:52.70,En,,0,0,0,,{\fad(400,400)}Mahadev akela hai, par baaqi hai aas
+Dialogue: 0,0:03:52.80,0:04:06.70,Hi,,0,0,0,,{\fad(400,400)}हर हर… महादेव…
+Dialogue: 0,0:03:52.80,0:04:06.70,En,,0,0,0,,{\fad(400,400)}Har Har… Mahadev…
+Dialogue: 0,0:04:06.80,0:04:13.00,Hi,,0,0,0,,{\fad(400,400)}सती…
+Dialogue: 0,0:04:06.80,0:04:13.00,En,,0,0,0,,{\fad(400,400)}Sati…
