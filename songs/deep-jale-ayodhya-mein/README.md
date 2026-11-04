@@ -6,4 +6,4 @@ A festive Hindi bhajan telling the Ramayana briefly, ending with Ram's return to
 | `lyrics.md` | Original lyrics |
 | `prompt.md` | Suno style prompt |
 | `image-prompts.md` | Gemini prompts for the video visuals |
-| `deep-jale-ayodhya-mein.mp3` | Final song (add after generating) |
+| `deep-jale-ayodhya-mein.mp3` | Final song (Suno, cinematic version) |

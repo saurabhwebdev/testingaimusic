@@ -1,7 +1,7 @@
 # Gemini image prompts – Deep Jale Ayodhya Mein
 Generate in 16:9. Paste the STYLE line at the end of every prompt to keep the images consistent.
 
-**STYLE:** Indian devotional painting, cinematic lighting, rich gold, saffron and deep blue palette, Raja Ravi Varma inspired realism, glowing diyas, highly detailed, no text, 16:9
+**STYLE:** Epic cinematic Indian mythology art, dark dramatic lighting, high contrast, deep shadows, rich gold, fiery orange and deep blue palette, Raja Ravi Varma inspired realism, glowing diyas, movie-poster scale, highly detailed, no text, 16:9
 
 1. **Cover / Intro** – Lord Ram (young, blue-skinned, serene, golden crown, bow on shoulder) and Sita in a red-gold sari standing at the grand gate of Ayodhya at night, thousands of glowing clay diyas lining the palace steps, fireworks and flower petals in the sky.
 2. **Chorus – City celebrates** – Ancient Ayodhya city at night lit by endless rows of diyas on rooftops, river ghats and streets, people in festive clothes drawing colourful rangoli, playing dhol, children holding lamps.
