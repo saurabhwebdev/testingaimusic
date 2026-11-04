@@ -1,5 +1,7 @@
-# Suno style prompt
-Festive Hindi devotional bhajan, 95 BPM building to 110, major key, powerful male lead with female harmony, large call-and-response chorus, dhol, shehnai, harmonium, bansuri, temple bells, conch, cinematic war drums in bridge, joyful Diwali celebration
+# Suno style prompt (cinematic version)
+Epic cinematic Hindi devotional anthem, dark and intense, deep heavy baritone male vocal, powerful chanting male choir, Hollywood trailer orchestra, massive taiko and dhol war drums, low brass, thundering strings, shankh conch blasts, damru, tanpura drone, 70 BPM slow build to explosive climax, goosebumps
+
+**Exclude styles:** pop, soft, cheerful, female vocal, acoustic, lo-fi
 
 Title: Deep Jale Ayodhya Mein
 
