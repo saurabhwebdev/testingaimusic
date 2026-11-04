@@ -6,4 +6,4 @@ A melodic, poetic bhajan: Sita in Ashok Vatika writing letters to Ram on the clo
 | `lyrics.md` | Original lyrics |
 | `prompt.md` | Suno style prompt |
 | `image-prompts.md` | Gemini prompts for the video visuals |
-| `siya-ki-chitthi.mp3` | Final song (add after generating) |
+| `siya-ki-chitthi.mp3` | Final song (Suno) |
