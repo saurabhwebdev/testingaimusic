@@ -1,0 +1,22 @@
+# Image prompts – Mithila Ke Dhiya (photorealistic, cinematic)
+Each prompt already includes the style. Copy one at a time into Google Flow / Gemini. 16:9.
+
+For images 2–8, attach image 1 and add: "same Sita as in this image".
+
+- **1. Cover / Hook** – A beautiful young Indian princess, Sita, with dusky glowing skin, large expressive eyes, wearing a red and gold Mithila-style bridal sari with traditional silver and gold jewellery and red sindoor-coloured alta on her feet, standing in a courtyard at dusk, walls behind her painted with colourful Madhubani art of fish, peacocks and lotus, oil lamps glowing around her, gentle smile. Photorealistic cinematic film still, real human actress, ancient Indian epic, rich warm lamplight against deep blue dusk, deep shadows, film grain, shallow depth of field, shot on 35mm anamorphic lens, regal and graceful mood, no text, 16:9
+
+- **2. Verse 1 – Born from the soil** – King Janak, an elderly bearded king in simple white clothes, ploughing a cracked dry field with a golden plough at sunrise, the earth splitting open in front of him with a soft divine golden glow, a baby girl lying in the glowing soil, his face full of wonder and tears. Photorealistic cinematic film still, real human actors, ancient Indian epic, dramatic golden sunrise light, dust in the air, deep shadows, film grain, 35mm anamorphic lens, miraculous mood, no text, 16:9
+
+- **3. Verse 1 – "Pag-pag pokhari, maachh-makhaan"** – Wide shot of ancient Mithila at golden hour: lotus ponds, women in colourful saris carrying brass pots, fishermen with nets, mango trees, mud houses painted with Madhubani art, mist on the water. Photorealistic cinematic film still, real people, ancient India, warm golden-hour light, soft haze, film grain, wide anamorphic lens, peaceful and proud mood, no text, 16:9
+
+- **4. Verse 1 – Lifting the bow while playing** – A young girl Sita, about ten years old, in a simple yellow skirt and blouse, laughing as she lifts a giant ornate divine bow with one hand while playing in a palace courtyard, her shocked father King Janak watching from a doorway. Photorealistic cinematic film still, real human actors, ancient Indian epic, warm soft daylight, deep shadows, film grain, shallow depth of field, magical and playful mood, no text, 16:9
+
+- **5. Verse 2 – The baraat** – A grand royal wedding procession at night arriving at the gates of Janakpur: decorated elephants and horses, dhol players, torches and fireworks, young Lord Ram (dusky blue-toned skin, golden crown, groom's attire) on a white horse, Lakshman beside him, crowds cheering. Photorealistic cinematic film still, real human actors, ancient Indian epic, dramatic warm torchlight and fireworks against dark night sky, smoke, film grain, wide anamorphic lens, energetic festive mood, no text, 16:9
+
+- **6. Verse 2 – "Kad-kad — tootal"** – Lord Ram in a grand royal hall breaking a giant divine bow in the middle, the bow snapping with a flash of golden light and sparks, kings in the background shocked and standing up, Sita watching from the side with a garland in her hands. Photorealistic cinematic film still, real human actors, ancient Indian epic, dramatic high-contrast lighting, golden flash, deep shadows, motion and debris, film grain, 35mm anamorphic lens, epic and powerful moment, no text, 16:9
+
+- **7. Bridge – Bidai** – Sita in her red bridal sari hugging her weeping mother at the palace door at dawn, King Janak wiping his tears behind them, a decorated doli (palanquin) waiting outside, marigold petals on the ground, soft mist. Photorealistic cinematic film still, real human actors, ancient Indian epic, soft dim dawn light, muted warm tones, deep shadows, film grain, 85mm lens, shallow depth of field, deeply emotional farewell, no text, 16:9
+
+- **8. Verse 3 / Final Hook – Two dhaams meet** – Sita and Ram standing together at the centre of a wedding mandap under a canopy of marigolds and mango leaves, sacred fire glowing in front of them, Sita placing the varmala on Ram, both smiling softly, families on both sides showering flowers. Photorealistic cinematic film still, real human actors, ancient Indian epic, warm firelight and golden lamplight, deep shadows, film grain, 35mm anamorphic lens, joyful and sacred mood, no text, 16:9
+
+Tips: Use image 1 or 8 as the YouTube thumbnail. For a Mithila touch, add "Madhubani art patterns in the background" to any prompt.
