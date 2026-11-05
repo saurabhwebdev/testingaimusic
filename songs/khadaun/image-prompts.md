@@ -1,0 +1,26 @@
+# Image prompts – Khadaun (photorealistic, dark, sad)
+Each prompt already includes the style. Copy one at a time into Google Flow / Gemini. 16:9.
+
+For images 2–10, attach image 1 and add: "same Bharat as in this image".
+
+- **1. Cover / Intro** – A grieving young Indian prince, Bharat, with dusky skin, long matted hair tied in a simple knot, wearing plain saffron bark-cloth like a hermit, sitting on the bare stone floor of a vast dark royal hall, looking up at an empty golden throne on which rest a pair of simple wooden sandals (khadaun), a single oil lamp burning beside the throne, tears in his eyes. Photorealistic cinematic film still, real human actor, ancient Indian epic, dark moody low-key lighting, deep shadows, warm flickering oil-lamp light against cold blue darkness, film grain, shallow depth of field, shot on 35mm anamorphic lens, heartbreaking atmosphere, no text, 16:9
+
+- **2. Verse 1 – "Sinhasan pe teri khadaun"** – Close-up of a pair of worn wooden sandals resting on a red velvet cushion on a golden throne, a single marigold flower beside them, dust in the air catching a thin beam of moonlight, the rest of the hall in darkness. Photorealistic cinematic film still, ancient India, dark low-key lighting, deep shadows, film grain, macro lens, shallow depth of field, sacred and lonely mood, no text, 16:9
+
+- **3. Verse 1 – "Mahlon mein bhi vanvasi hoon"** – Bharat sleeping on a thin straw mat on the cold floor of a small bare hut outside a grand palace, the palace lights glowing far away in the background, his face tired and sad, an empty clay bowl beside him. Photorealistic cinematic film still, real human actor, ancient Indian epic, dark moody lighting, cold blue night with faint warm light, deep shadows, film grain, 35mm anamorphic lens, lonely atmosphere, no text, 16:9
+
+- **4. Verse 1b – Mother Kaushalya** – An elderly grieving queen, Kaushalya, in a faded white sari, standing at a palace window at dusk looking at the empty road outside the city gate, her hand on the stone frame, Bharat standing behind her with his head bowed. Photorealistic cinematic film still, real human actors, ancient Indian epic, dark low-key lighting, muted dusk tones, deep shadows, film grain, 85mm lens, shallow depth of field, aching longing mood, no text, 16:9
+
+- **5. Chorus – Sandals on his head** – Bharat walking barefoot through a dark, silent Ayodhya street at night carrying the wooden sandals on his head with both hands, eyes closed in prayer, people bowing in the shadows, small oil lamps flickering in doorways. Photorealistic cinematic film still, real human actors, ancient Indian epic, dark moody lighting, warm lamp light and cold blue night, deep shadows, film grain, 35mm anamorphic lens, devotional and sorrowful mood, no text, 16:9
+
+- **6. Verse 2 – Counting pebbles** – Bharat sitting alone on the bank of the Sarayu river at night, placing a small pebble on a long line of pebbles, a name faintly scratched on each, moonlight on the black water, mist over the river. Photorealistic cinematic film still, real human actor, ancient India, dark low-key lighting, cold silver moonlight, deep shadows, film grain, shallow depth of field, patient grief, no text, 16:9
+
+- **7. Pre-Bridge – "Khadaun ka pehredaar"** – Bharat standing guard beside the throne holding a simple spear, ministers in rich clothes bowing to him in the dim hall, but he is looking only at the sandals on the throne, a sliver of light on his face. Photorealistic cinematic film still, real human actors, ancient Indian epic, dark moody lighting, high contrast, deep shadows, film grain, 35mm anamorphic lens, humble and devoted mood, no text, 16:9
+
+- **8. Bridge – The vow of fire** – Bharat standing in front of a large funeral pyre being prepared at night outside the city, firelight on his face, eyes full of resolve and tears, priests in the background, sparks rising into the dark sky. Photorealistic cinematic film still, real human actors, ancient Indian epic, very dark low-key lighting, strong orange firelight against black night, deep shadows, film grain, 35mm anamorphic lens, intense and tragic mood, no text, 16:9
+
+- **9. Verse 3 – "Woh aa raha hai"** – At the last pre-dawn hour, Bharat kneeling on the river bank hugging the wooden sandals to his chest, a gentle wind blowing his hair and the river mist, a faint first light on the horizon, and for the first time a small tearful smile on his face. Photorealistic cinematic film still, real human actor, ancient Indian epic, dark low-key lighting with a soft blue-to-gold dawn glow, deep shadows, film grain, 85mm lens, shallow depth of field, overwhelming relief, no text, 16:9
+
+- **10. Final Chorus / Outro – Placing the sandals at Ram's feet** – At dawn, Bharat bowing low and placing the wooden sandals at the bare feet of Lord Ram (dusky blue-toned skin, simple saffron dhoti), Ram's hands reaching down to lift his brother, Sita and Lakshman standing behind, warm muted sunrise. Photorealistic cinematic film still, real human actors, ancient Indian epic, soft dim dawn light, muted desaturated tones, deep shadows, film grain, 85mm lens, shallow depth of field, quiet emotional reunion, no text, 16:9
+
+Tips: If Flow makes the images too bright, add "very dark, underexposed, low-key" at the end. Use image 1 or 9 as the YouTube thumbnail.
